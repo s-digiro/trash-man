@@ -2,6 +2,8 @@
 name = "trash-man"
 version = "0.1.0"
 edition = "2021"
+license = "GPL3"
+description = "\"I'm the trash man. I come out. I throw references all over the code. And then, I start dropping variables. And then, I pick up the references, and I bash the memory over the head.\" - Frank Reynolds, probably"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
